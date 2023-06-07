@@ -1,6 +1,12 @@
 # Project-Reports
 A collection of project reports that were completed during the course of the Master (Biomedical) program.
 
+### Automatic Detection of Atrial Fibrillation (AF) Episodes
+- Automatic detection of AF episodes from ECG data collected from Erasmus Medical Centre, Rotterdam
+- Applied Machine Learning techniques such as SVM, Decision Tree, Logistic regression, etc to classify AF data
+- Performance of these models was measured using various metrics such as – ROC-AUC score, precision, accuracy
+- Class imbalance techniques like SMOTE were used.
+
 ### ECMOVE - Moving Aid for ECMO System
 
 - A design of a moving aid that can hold the ECMO machine and other components was developed.
